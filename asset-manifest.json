@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-box-office/static/css/main.94202582.chunk.css",
+    "main.js": "/react-box-office/static/js/main.4fbe9a07.chunk.js",
+    "main.js.map": "/react-box-office/static/js/main.4fbe9a07.chunk.js.map",
+    "runtime-main.js": "/react-box-office/static/js/runtime-main.c17a499a.js",
+    "runtime-main.js.map": "/react-box-office/static/js/runtime-main.c17a499a.js.map",
+    "static/js/2.4c877bf4.chunk.js": "/react-box-office/static/js/2.4c877bf4.chunk.js",
+    "static/js/2.4c877bf4.chunk.js.map": "/react-box-office/static/js/2.4c877bf4.chunk.js.map",
+    "static/js/3.db1ddc50.chunk.js": "/react-box-office/static/js/3.db1ddc50.chunk.js",
+    "static/js/3.db1ddc50.chunk.js.map": "/react-box-office/static/js/3.db1ddc50.chunk.js.map",
+    "index.html": "/react-box-office/index.html",
+    "static/css/main.94202582.chunk.css.map": "/react-box-office/static/css/main.94202582.chunk.css.map",
+    "static/js/2.4c877bf4.chunk.js.LICENSE.txt": "/react-box-office/static/js/2.4c877bf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17a499a.js",
+    "static/js/2.4c877bf4.chunk.js",
+    "static/css/main.94202582.chunk.css",
+    "static/js/main.4fbe9a07.chunk.js"
+  ]
+}
